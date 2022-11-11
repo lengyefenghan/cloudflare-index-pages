@@ -1,0 +1,57 @@
+html {
+    padding-left: 5vmin;
+    padding-right: 5vmin;
+    padding-top: 5vmin;
+}
+body {
+    background-size: contain;
+    margin: 0;
+    width: 80vmin;
+    margin: auto;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+}
+p {
+    display: block;
+    color: black;
+    text-align: center;
+    margin-bottom: 0;
+    width: 16vmin;
+    margin-left: 2vmin;
+    margin-right: 2vmin;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+
+
+ul {
+    list-style: none;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    width: 20vmin;
+    height: 25vmin;
+    list-style-type: none;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+.ibg {
+    width: 16vmin;
+    height: 16vmin;
+    background-size: contain;
+    margin: 2vmin;
+    padding: 0;
+    /* background-image:url(https://lengyefenghan.top/static/img/logo.svg) ; */
+}
+
+.acard {
+    margin: 0;
+    padding: 0;
+}

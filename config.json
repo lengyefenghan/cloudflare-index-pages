@@ -1,0 +1,28 @@
+{
+    "Title":"导航-冷夜晚枫寒",
+    "IndexSiteName":"蟹喵导航",
+    "Background":"WhiteSmoke url()",
+    "sites":[
+        {
+            "SiteName":"FileBrowser",
+            "SiteUrl":"https://cloud.lengyefenghan.top/",
+            "SiteLogoUrl":"https://cloud.lengyefenghan.top/static/img/logo.svg"
+        },
+        {
+            "SiteName":"Ariang",
+            "SiteUrl":"https://webdav.lengyefenghan.top/ariang/",
+            "SiteLogoUrl":"https://webdav.lengyefenghan.top/ariang/favicon.png"
+        },
+        {
+            "SiteName":"WebDav",
+            "SiteUrl":"https://webdav.lengyefenghan.top/dav/",
+            "SiteLogoUrl":"https://webdav.lengyefenghan.top/ariang/favicon.png"
+        },
+        {
+            "SiteName":"Blog",
+            "SiteUrl":"https://www.lengyefenghan.top/",
+            "SiteLogoUrl":"https://lengyefenghan.top/tx.png"
+        }
+
+    ]
+}
