@@ -4,7 +4,7 @@
     "Background":"WhiteSmoke url()",
     "sites":[
         {
-            "SiteName":"FileBrowser",
+            "SiteName":"蟹喵云盘",
             "SiteUrl":"https://cloud.lengyefenghan.top/",
             "SiteLogoUrl":"https://cloud.lengyefenghan.top/static/img/logo.svg"
         },
@@ -19,10 +19,19 @@
             "SiteLogoUrl":"https://webdav.lengyefenghan.top/ariang_favicon.png"
         },
         {
-            "SiteName":"Blog",
+            "SiteName":"博客",
             "SiteUrl":"https://www.lengyefenghan.top/",
             "SiteLogoUrl":"https://lengyefenghan.top/tx.png"
+        },
+        {
+            "SiteName":"qbt",
+            "SiteUrl":"https://webdav.lengyefenghan.top/qbt/",
+            "SiteLogoUrl":"https://webdav.lengyefenghan.top/ariang_favicon.png"
+        },
+        {
+            "SiteName":"桦木镇云盘",
+            "SiteUrl":"https://huamuzhen.lengyefenghan.top/",
+            "SiteLogoUrl":"https://huamuzhen.lengyefenghan.top/static/img/logo.svg"
         }
-
     ]
 }
