@@ -4,29 +4,44 @@
     "Background":"WhiteSmoke url()",
     "sites":[
         {
-            "SiteName":"蟹喵云盘",
-            "SiteUrl":"https://cloud.lengyefenghan.top/nextcloud/",
-            "SiteLogoUrl":"https://cloud.lengyefenghan.top/static/img/logo.svg"
-        },
-        {
-            "SiteName":"Alist",
-            "SiteUrl":"https://cloud.lengyefenghan.top/alist/dav",
-            "SiteLogoUrl":"icons/hsk.png"
-        },
-        {
             "SiteName":"博客",
             "SiteUrl":"https://www.lengyefenghan.top/",
             "SiteLogoUrl":"icons/tx.png"
         },
         {
-            "SiteName":"qbt",
+            "SiteName":"蟹喵云盘",
+            "SiteUrl":"https://cloud.lengyefenghan.top/nextcloud/",
+            "SiteLogoUrl":"icons/nextcloud.svg"
+        },
+        {
+            "SiteName":"Alist",
+            "SiteUrl":"https://cloud.lengyefenghan.top/alist/dav",
+            "SiteLogoUrl":"icons/alist.svg"
+        },
+        {
+            "SiteName":"BT下载",
             "SiteUrl":"https://cloud.lengyefenghan.top/qbt/",
-            "SiteLogoUrl":"https://cloud.lengyefenghan.top/ariang_favicon.png"
+            "SiteLogoUrl":"icons/qbittorrent-tray.svg"
+        },
+        {
+            "SiteName":"离线下载",
+            "SiteUrl":"https://cloud.lengyefenghan.top/ariang/",
+            "SiteLogoUrl":"icons/aria2.png"
+        },
+        {
+            "SiteName":"在线影音",
+            "SiteUrl":"https://cloud.lengyefenghan.top/jellyfin/",
+            "SiteLogoUrl":"icons/jellyfin.png"
         },
         {
             "SiteName":"桦木镇云盘",
             "SiteUrl":"https://huamuzhen.lengyefenghan.top/",
             "SiteLogoUrl":"icons/cloudreve.svg"
+        },
+        {
+            "SiteName":"文件",
+            "SiteUrl":"https://cloud.lengyefenghan.top/files/",
+            "SiteLogoUrl":"icons/filebrowser.svg"
         }
     ]
 }
