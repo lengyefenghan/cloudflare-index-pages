@@ -1,7 +1,7 @@
 {
     "Title":"导航-冷夜晚枫寒",
-    "IndexSiteName":"蟹喵导航",
-    "Background":"WhiteSmoke url()",
+    "IndexSiteName":"",
+    "Background":"WhiteSmoke url(img/bg.png)",
     "sites":[
         {
             "SiteName":"博客",
