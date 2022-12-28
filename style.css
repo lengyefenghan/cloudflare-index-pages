@@ -74,6 +74,7 @@ li {
     text-align: center;
     /* float: left; */
     outline:none;
+    border-radius: 2vmin;
 }
 
 /* #search-button {

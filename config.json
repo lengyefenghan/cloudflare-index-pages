@@ -42,6 +42,21 @@
             "SiteName":"文件",
             "SiteUrl":"https://cloud.lengyefenghan.top/files/",
             "SiteLogoUrl":"icons/filebrowser.svg"
+        },
+        {
+            "SiteName":"哔哩哔哩",
+            "SiteUrl":"https://www.bilibili.com/",
+            "SiteLogoUrl":"icons/bilibili-loading.png"
+        },
+        {
+            "SiteName":"Youtube",
+            "SiteUrl":"https://www.youtube.com/",
+            "SiteLogoUrl":"icons/icons8-youtube-512.svg"
+        },
+        {
+            "SiteName":"ArchLinux",
+            "SiteUrl":"https://archlinux.org/",
+            "SiteLogoUrl":"icons/archlinux.ico"
         }
     ]
 }
