@@ -14,24 +14,9 @@
             "SiteLogoUrl":"icons/nextcloud.svg"
         },
         {
-            "SiteName":"Alist",
-            "SiteUrl":"https://cloud.lengyefenghan.top/alist/dav",
-            "SiteLogoUrl":"icons/alist.svg"
-        },
-        {
-            "SiteName":"BT下载",
-            "SiteUrl":"https://cloud.lengyefenghan.top/qbt/",
-            "SiteLogoUrl":"icons/qbittorrent-tray.svg"
-        },
-        {
             "SiteName":"离线下载",
             "SiteUrl":"https://cloud.lengyefenghan.top/ariang/",
             "SiteLogoUrl":"icons/aria2.png"
-        },
-        {
-            "SiteName":"在线影音",
-            "SiteUrl":"https://cloud.lengyefenghan.top/jellyfin/",
-            "SiteLogoUrl":"icons/jellyfin.png"
         },
         {
             "SiteName":"桦木镇云盘",
